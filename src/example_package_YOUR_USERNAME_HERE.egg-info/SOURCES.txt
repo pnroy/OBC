@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/PIMC_DVR_O2rotors/ChoiceMC_OBC.py
+src/PIMC_DVR_O2rotors/__init__.py
+src/PIMC_DVR_O2rotors/test.py
+src/example_package_YOUR_USERNAME_HERE.egg-info/PKG-INFO
+src/example_package_YOUR_USERNAME_HERE.egg-info/SOURCES.txt
+src/example_package_YOUR_USERNAME_HERE.egg-info/dependency_links.txt
+src/example_package_YOUR_USERNAME_HERE.egg-info/top_level.txt
